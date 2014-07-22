@@ -189,6 +189,7 @@ pip-log.txt
 ## JetBrains
 #################
 .idea
+nbproject/**/*
 
 Sauce-Connect.jar
 *.log
